@@ -1,3 +1,13 @@
+   ██████╗  █████╗ ████████╗███████╗██╗  ██╗███████╗██████╗ 
+  ██╔════╝ ██╔══██╗╚══██╔══╝██╔════╝██║ ██╔╝██╔════╝██╔══██╗
+  ██║  ███╗███████║   ██║   █████╗  █████╔╝ █████╗  ██████╔╝
+  ██║   ██║██╔══██║   ██║   ██╔══╝  ██╔═██╗ ██╔══╝  ██╔══██╗
+  ╚██████╔╝██║  ██║   ██║   ███████╗██║  ██╗███████╗██║  ██║
+   ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
+
+                 G A T E K E E P E R
+           by Code Bullet Yoshi (Yoshi12345700)
+
 Staff Application Bot — README
 Maintainer: CodeBullet (Yoshi12345700)
 Version: 1.0
@@ -110,3 +120,4 @@ Extending the bot
 
 Support
 For issues or feature requests, contact: CodeBullet (Yoshi12345700).
+
