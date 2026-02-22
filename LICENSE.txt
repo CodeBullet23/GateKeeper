@@ -1,0 +1,73 @@
+CodeBullet License (CBY-1.0)
+Copyright (c) 2026 CodeBullet (Yoshi12345700)
+
+Preamble
+This license governs use, distribution, modification, and attribution of the software
+and accompanying files provided by Code Bullet Yoshi ("Licensor"). By using, copying,
+modifying, or distributing the software, you accept and agree to the terms below.
+
+1. Grant of Rights
+1.1. **Permitted Uses.** The Licensor grants you a worldwide, non-exclusive,
+     non-transferable, royalty-free license to use, run, copy, modify, and distribute
+     the software in source or binary form, for personal, educational, or commercial
+     purposes, subject to the restrictions in Section 2.
+
+1.2. **Sublicensing.** You may distribute the software under the terms of this
+     license but you may not grant sublicenses that conflict with these terms.
+
+2. Restrictions
+2.1. **No Misrepresentation.** You must not represent that you are the original
+     author of the software. If you distribute the software (modified or unmodified),
+     you must include a copy of this LICENSE.txt and retain the original copyright
+     notice: **CodeBullet (Yoshi12345700)**.
+
+2.2. **No Removal of Notices.** You must not remove or alter any copyright,
+     trademark, or attribution notices included in the software or documentation.
+
+2.3. **No Trademark Use.** This license does not grant any rights to use the
+     Licensor’s trademarks, trade names, logos, or service marks. Use of the name
+     "Code Bullet Yoshi" or "Yoshi 12345700" for endorsement, advertising, or
+     product naming requires separate written permission.
+
+2.4. **No Warranty Claims.** You may not imply that the Licensor endorses your
+     use, distribution, or modification of the software without explicit written
+     permission.
+
+3. Attribution
+3.1. **Attribution Requirement.** If you distribute the software (or substantial
+     portions of it), you must include a visible attribution in the project’s
+     README or equivalent documentation:  
+     **"Portions of this software are provided by CodeBullet (Yoshi12345700)."**
+
+4. Liability and Warranty
+4.1. **No Warranty.** THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+     KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+     MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+4.2. **Limitation of Liability.** IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR
+     ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+     DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+     SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+     CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+     OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE), ARISING IN ANY WAY OUT OF THE USE
+     OF THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+5. Termination
+5.1. **Termination for Breach.** This license terminates automatically if you
+     materially breach any term and fail to cure the breach within 30 days after
+     receiving written notice from the Licensor.
+
+5.2. **Survival.** Sections 2.1, 2.2, 3, 4, and 6 survive termination.
+
+6. Miscellaneous
+6.1. **Governing Law.** This license is governed by the laws of the Licensor’s
+     jurisdiction (Canada) without regard to conflict-of-law principles.
+
+6.2. **Severability.** If any provision of this license is held unenforceable,
+     the remainder of the license remains in effect.
+
+6.3. **Entire Agreement.** This license constitutes the entire agreement between
+     you and the Licensor regarding the software and supersedes prior agreements.
+
+Contact
+For permissions beyond this license or other inquiries, contact: CodeBullet (Yoshi12345700).
